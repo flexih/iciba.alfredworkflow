@@ -1,6 +1,6 @@
-iciba.alfredworkflow
+爱词霸
 ====================
 
-Alfred workflow for iciba
+爱词霸 workflow for Alfred
 ### Usage
-dict word
+dt word
